@@ -1,0 +1,21 @@
+a {
+    color: #ffc525;
+}
+
+.main {
+    background-color: hsl(160, 100%, 75%, 0.2);
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p, li {
+    text-align: justify;
+    background-color: rgba(255, 159, 81, 0.856);
+}
