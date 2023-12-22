@@ -1,7 +1,12 @@
 
+.main {
+    text-align: center;
+    background-color: #314035;
+}
 h1 {
     text-align: center;
     font-size: 28px;
+    color: #D9A87E;
 }
 
 a {

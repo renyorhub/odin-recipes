@@ -6,6 +6,12 @@ a {
     background-color: hsl(160, 100%, 75%, 0.2);
 }
 
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
 h1 {
     text-align: center;
 }
